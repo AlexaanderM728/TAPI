@@ -37,6 +37,7 @@ curl -X PATCH http://localhost:8989/products/1 \
 
 ### Delete a Product
 curl -X DELETE http://localhost:8989/products/1 \
+-H "Content-Type: application/json" \
 -H "role: admin"
 
 ---
