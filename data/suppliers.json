@@ -1,0 +1,911 @@
+[
+  {
+    "id_supplier": 1,
+    "name": "Wells, Mendoza and Johnson",
+    "contact_info": {
+      "address": "1816 Jacob Coves Apt. 675, Raymondmouth, WV 53374",
+      "phone": "001-636-243-8171x038"
+    },
+    "rating": 2.8
+  },
+  {
+    "id_supplier": 83,
+    "name": "Snyder-Morris",
+    "contact_info": {
+      "address": "0540 Keller Lock Apt. 276, Kennethtown, MD 26090",
+      "phone": "603-502-6884x19476"
+    },
+    "rating": 3.3
+  },
+  {
+    "id_supplier": 51,
+    "name": "Gomez-Rodriguez",
+    "contact_info": {
+      "address": "2588 Christopher Via Suite 011, Ellenview, AK 69632",
+      "phone": "675-782-6411x5032"
+    },
+    "rating": 1.4
+  },
+  {
+    "id_supplier": 59,
+    "name": "Garrett, Sutton and Cruz",
+    "contact_info": {
+      "address": "815 Reynolds Hill, Christianton, CT 42303",
+      "phone": "4693330617"
+    },
+    "rating": 4.7
+  },
+  {
+    "id_supplier": 70,
+    "name": "Campbell, Ashley and Nelson",
+    "contact_info": {
+      "address": "9619 Reed Cliff Apt. 851, Christianchester, AL 87059",
+      "phone": "(680)330-7679"
+    },
+    "rating": 1.6
+  },
+  {
+    "id_supplier": 43,
+    "name": "White-Carter",
+    "contact_info": {
+      "address": "84860 Hawkins Ranch, Martinezshire, MI 27962",
+      "phone": "6932635904"
+    },
+    "rating": 1.2
+  },
+  {
+    "id_supplier": 38,
+    "name": "Cooper-Reynolds",
+    "contact_info": {
+      "address": "535 Rhodes View, Jamesside, DE 53298",
+      "phone": "436.549.2014x9963"
+    },
+    "rating": 1.7
+  },
+  {
+    "id_supplier": 20,
+    "name": "Hernandez, Johnston and Johnson",
+    "contact_info": {
+      "address": "0075 Parker Throughway Suite 079, West Rachel, ME 11344",
+      "phone": "(326)276-2417"
+    },
+    "rating": 3.9
+  },
+  {
+    "id_supplier": 74,
+    "name": "Phillips-Watkins",
+    "contact_info": {
+      "address": "09041 Hubbard Camp Apt. 109, Aaronchester, GA 93749",
+      "phone": "001-781-818-8218"
+    },
+    "rating": 3.5
+  },
+  {
+    "id_supplier": 44,
+    "name": "Gonzales, Walker and Cabrera",
+    "contact_info": {
+      "address": "PSC 5417, Box 2670, APO AE 32053",
+      "phone": "(765)458-3384"
+    },
+    "rating": 4.9
+  },
+  {
+    "id_supplier": 18,
+    "name": "Powers, Sanchez and Stout",
+    "contact_info": {
+      "address": "USNV Ewing, FPO AP 64492",
+      "phone": "+1-299-793-7638x33563"
+    },
+    "rating": 3.3
+  },
+  {
+    "id_supplier": 73,
+    "name": "Sanders PLC",
+    "contact_info": {
+      "address": "Unit 9059 Box 0205, DPO AE 06425",
+      "phone": "774-874-0709x427"
+    },
+    "rating": 1.8
+  },
+  {
+    "id_supplier": 27,
+    "name": "Beck, Johnson and Barry",
+    "contact_info": {
+      "address": "9425 Fox Ports, Port Royfurt, AK 40120",
+      "phone": "001-766-927-1078"
+    },
+    "rating": 1.7
+  },
+  {
+    "id_supplier": 100,
+    "name": "Nelson Ltd",
+    "contact_info": {
+      "address": "70268 Contreras Mills Suite 694, Port Kennethberg, WY 04181",
+      "phone": "253-380-6727x209"
+    },
+    "rating": 0.5
+  },
+  {
+    "id_supplier": 33,
+    "name": "Salazar LLC",
+    "contact_info": {
+      "address": "5388 Valdez Island Suite 734, East Lance, OH 85498",
+      "phone": "(275)464-8181"
+    },
+    "rating": 3.8
+  },
+  {
+    "id_supplier": 81,
+    "name": "Harrison, Ross and Roberts",
+    "contact_info": {
+      "address": "0535 Jessica Track Apt. 216, Hallstad, CO 78692",
+      "phone": "618-700-3993"
+    },
+    "rating": 3.3
+  },
+  {
+    "id_supplier": 25,
+    "name": "James-Davis",
+    "contact_info": {
+      "address": "2747 Sawyer Isle Apt. 295, Lake Tiffany, PR 74494",
+      "phone": "001-314-642-1995x897"
+    },
+    "rating": 4.1
+  },
+  {
+    "id_supplier": 60,
+    "name": "Mills PLC",
+    "contact_info": {
+      "address": "312 Valdez Wall, Port Jacob, HI 66320",
+      "phone": "+1-665-306-5205"
+    },
+    "rating": 2.5
+  },
+  {
+    "id_supplier": 10,
+    "name": "Thompson, Foley and Collins",
+    "contact_info": {
+      "address": "5795 Hampton Rue Apt. 526, Schultzburgh, DC 11188",
+      "phone": "001-780-599-9886x53722"
+    },
+    "rating": 1.8
+  },
+  {
+    "id_supplier": 4,
+    "name": "Wilson, Ray and Murphy",
+    "contact_info": {
+      "address": "77144 Bailey Roads Suite 390, Kellyhaven, ID 05632",
+      "phone": "275.610.9931x5260"
+    },
+    "rating": 3.7
+  },
+  {
+    "id_supplier": 23,
+    "name": "Hughes-Macdonald",
+    "contact_info": {
+      "address": "8427 Ramos Hills, East Crystalville, OH 78810",
+      "phone": "286-303-9701x234"
+    },
+    "rating": 1.7
+  },
+  {
+    "id_supplier": 56,
+    "name": "Gibson Group",
+    "contact_info": {
+      "address": "24912 Anderson Park Suite 169, South Kennethburgh, NE 16789",
+      "phone": "(578)700-7550x46651"
+    },
+    "rating": 4.5
+  },
+  {
+    "id_supplier": 6,
+    "name": "Rogers-Sanchez",
+    "contact_info": {
+      "address": "7341 Cynthia Common, Bernardfurt, AL 69217",
+      "phone": "(392)202-5892x5813"
+    },
+    "rating": 3.7
+  },
+  {
+    "id_supplier": 95,
+    "name": "Holmes LLC",
+    "contact_info": {
+      "address": "6044 Heidi Roads Apt. 187, Yorkbury, GA 68893",
+      "phone": "(707)565-5116"
+    },
+    "rating": 4.8
+  },
+  {
+    "id_supplier": 47,
+    "name": "Aguilar-Estrada",
+    "contact_info": {
+      "address": "3649 Stephanie Views Apt. 137, Breannaland, NE 35115",
+      "phone": "587-556-6048x3037"
+    },
+    "rating": 2.8
+  },
+  {
+    "id_supplier": 3,
+    "name": "Hopkins-Russell",
+    "contact_info": {
+      "address": "65076 Ward Vista, Lake Sarah, WY 61527",
+      "phone": "490-694-8465x594"
+    },
+    "rating": 3.2
+  },
+  {
+    "id_supplier": 13,
+    "name": "Clark, Ford and Beltran",
+    "contact_info": {
+      "address": "Unit 5496 Box 2277, DPO AP 37962",
+      "phone": "+1-635-599-9752x4815"
+    },
+    "rating": 4.7
+  },
+  {
+    "id_supplier": 9,
+    "name": "Powell and Sons",
+    "contact_info": {
+      "address": "Unit 3216 Box 2767, DPO AE 60950",
+      "phone": "(477)404-1162x6519"
+    },
+    "rating": 3.8
+  },
+  {
+    "id_supplier": 26,
+    "name": "Lee, Hurley and Foster",
+    "contact_info": {
+      "address": "PSC 4735, Box 2005, APO AP 25408",
+      "phone": "(527)933-8414"
+    },
+    "rating": 2.1
+  },
+  {
+    "id_supplier": 69,
+    "name": "Delgado-Anderson",
+    "contact_info": {
+      "address": "08380 Kristin Mill, Port Brianchester, ME 02911",
+      "phone": "797.760.7276x86287"
+    },
+    "rating": 2.7
+  },
+  {
+    "id_supplier": 96,
+    "name": "Nicholson-Burton",
+    "contact_info": {
+      "address": "2605 David Underpass Suite 668, Darrylton, LA 02297",
+      "phone": "+1-213-323-6781x2928"
+    },
+    "rating": 1.2
+  },
+  {
+    "id_supplier": 46,
+    "name": "Miller, Hall and Guerrero",
+    "contact_info": {
+      "address": "Unit 6912 Box 2200, DPO AP 69180",
+      "phone": "001-494-504-8514x559"
+    },
+    "rating": 4.6
+  },
+  {
+    "id_supplier": 79,
+    "name": "Hardin, Gregory and Williams",
+    "contact_info": {
+      "address": "866 James Isle Apt. 510, New George, FL 32003",
+      "phone": "001-516-456-0164"
+    },
+    "rating": 2.1
+  },
+  {
+    "id_supplier": 82,
+    "name": "Odonnell Group",
+    "contact_info": {
+      "address": "USS Mccall, FPO AA 20977",
+      "phone": "7586206873"
+    },
+    "rating": 1.3
+  },
+  {
+    "id_supplier": 22,
+    "name": "Tapia-Foster",
+    "contact_info": {
+      "address": "7644 Travis Flat Suite 073, New Patriciafort, MI 27677",
+      "phone": "846-815-1375"
+    },
+    "rating": 4.7
+  },
+  {
+    "id_supplier": 48,
+    "name": "Santos, Murphy and Morgan",
+    "contact_info": {
+      "address": "Unit 4025 Box 6142, DPO AA 02358",
+      "phone": "+1-709-638-4517x171"
+    },
+    "rating": 1.6
+  },
+  {
+    "id_supplier": 78,
+    "name": "Cook Group",
+    "contact_info": {
+      "address": "15574 Adams Burg Apt. 482, Garciachester, KS 56717",
+      "phone": "906-412-8800"
+    },
+    "rating": 4.8
+  },
+  {
+    "id_supplier": 91,
+    "name": "Duffy, Morales and Cook",
+    "contact_info": {
+      "address": "208 Brandon Port Suite 541, East Robertberg, IN 41671",
+      "phone": "824.770.3630x0776"
+    },
+    "rating": 4.8
+  },
+  {
+    "id_supplier": 55,
+    "name": "Brown-Gardner",
+    "contact_info": {
+      "address": "2621 Kelly Passage Apt. 047, North Sarah, IN 12186",
+      "phone": "(716)931-3169x652"
+    },
+    "rating": 1
+  },
+  {
+    "id_supplier": 61,
+    "name": "Baker-Andrews",
+    "contact_info": {
+      "address": "502 Janet Manors Suite 309, Montesborough, AZ 91498",
+      "phone": "856-612-0266x27847"
+    },
+    "rating": 4.9
+  },
+  {
+    "id_supplier": 11,
+    "name": "Johnson-Long",
+    "contact_info": {
+      "address": "8707 Jesus Forks, Scottberg, NV 48926",
+      "phone": "628-632-7731"
+    },
+    "rating": 1.9
+  },
+  {
+    "id_supplier": 68,
+    "name": "Wright, Contreras and Ford",
+    "contact_info": {
+      "address": "647 Jonathan Plains Apt. 964, Bowersshire, MI 99561",
+      "phone": "9007930807"
+    },
+    "rating": 2.1
+  },
+  {
+    "id_supplier": 7,
+    "name": "Mcgee, Perez and Guerra",
+    "contact_info": {
+      "address": "46297 Nicholas Drive, Port Patrickberg, WV 09358",
+      "phone": "(933)958-4823"
+    },
+    "rating": 1.1
+  },
+  {
+    "id_supplier": 31,
+    "name": "Cole LLC",
+    "contact_info": {
+      "address": "8198 Lambert Lights Apt. 069, Lewisshire, KY 05800",
+      "phone": "792-781-1511"
+    },
+    "rating": 1.4
+  },
+  {
+    "id_supplier": 98,
+    "name": "Shields, Ramirez and Orozco",
+    "contact_info": {
+      "address": "104 Susan Inlet, North Matthew, NJ 94189",
+      "phone": "(736)831-2481x39529"
+    },
+    "rating": 2
+  },
+  {
+    "id_supplier": 85,
+    "name": "Nicholson and Sons",
+    "contact_info": {
+      "address": "1537 White Knolls Suite 830, South Jennifer, NC 91986",
+      "phone": "858-288-1013x04712"
+    },
+    "rating": 1.3
+  },
+  {
+    "id_supplier": 32,
+    "name": "Flores, Mccoy and Moore",
+    "contact_info": {
+      "address": "77609 Randall Motorway, Cohenmouth, DC 36506",
+      "phone": "919-613-6425"
+    },
+    "rating": 3.1
+  },
+  {
+    "id_supplier": 35,
+    "name": "Anderson, Johnson and Robertson",
+    "contact_info": {
+      "address": "PSC 7272, Box 2724, APO AA 17878",
+      "phone": "(803)535-7775"
+    },
+    "rating": 1.4
+  },
+  {
+    "id_supplier": 64,
+    "name": "Gillespie-Spencer",
+    "contact_info": {
+      "address": "707 Holmes Ferry, New Joyce, LA 42135",
+      "phone": "675.562.8733"
+    },
+    "rating": 4
+  },
+  {
+    "id_supplier": 15,
+    "name": "Nelson, Sanchez and Stone",
+    "contact_info": {
+      "address": "293 Evan Isle Apt. 394, Port Debra, FM 03787",
+      "phone": "8339613262"
+    },
+    "rating": 2.1
+  },
+  {
+    "id_supplier": 89,
+    "name": "Taylor, Walton and Santos",
+    "contact_info": {
+      "address": "7984 Joshua Stream, Kristenland, IN 35738",
+      "phone": "001-656-583-1414x12333"
+    },
+    "rating": 4
+  },
+  {
+    "id_supplier": 93,
+    "name": "Garcia PLC",
+    "contact_info": {
+      "address": "69026 Stacy Circle Apt. 567, New Timothy, PW 85286",
+      "phone": "554-539-1415x689"
+    },
+    "rating": 4.5
+  },
+  {
+    "id_supplier": 42,
+    "name": "Gordon-Larsen",
+    "contact_info": {
+      "address": "77936 Mallory Canyon Apt. 017, East Josephton, DE 98696",
+      "phone": "(390)756-0933"
+    },
+    "rating": 4.7
+  },
+  {
+    "id_supplier": 97,
+    "name": "Hicks PLC",
+    "contact_info": {
+      "address": "96523 Amber Island, Richardsonton, CT 75220",
+      "phone": "+1-945-859-6206x6423"
+    },
+    "rating": 2.3
+  },
+  {
+    "id_supplier": 76,
+    "name": "Love-Pittman",
+    "contact_info": {
+      "address": "0210 Megan Lakes Suite 392, Shelleystad, IN 33590",
+      "phone": "(713)714-1536x414"
+    },
+    "rating": 3.5
+  },
+  {
+    "id_supplier": 45,
+    "name": "Barton, Lewis and Atkinson",
+    "contact_info": {
+      "address": "6408 Johnson Neck Apt. 422, Angelabury, WI 76228",
+      "phone": "+1-551-735-8948x382"
+    },
+    "rating": 1.2
+  },
+  {
+    "id_supplier": 8,
+    "name": "Hayes Inc",
+    "contact_info": {
+      "address": "052 Ramirez Fork, East Pamelatown, AR 21878",
+      "phone": "249.546.6560"
+    },
+    "rating": 4.5
+  },
+  {
+    "id_supplier": 71,
+    "name": "Mueller, Hernandez and Wade",
+    "contact_info": {
+      "address": "93431 Mack Burg, Carpenterbury, TX 86008",
+      "phone": "428-414-9804x38555"
+    },
+    "rating": 4.2
+  },
+  {
+    "id_supplier": 92,
+    "name": "Ryan PLC",
+    "contact_info": {
+      "address": "USCGC Gamble, FPO AA 33672",
+      "phone": "900-994-7005x3388"
+    },
+    "rating": 4.1
+  },
+  {
+    "id_supplier": 75,
+    "name": "Reese, Williams and Maldonado",
+    "contact_info": {
+      "address": "42454 Hannah Valley Apt. 304, Port Lisa, ND 46171",
+      "phone": "3854461679"
+    },
+    "rating": 1.7
+  },
+  {
+    "id_supplier": 2,
+    "name": "Dickerson-Griffith",
+    "contact_info": {
+      "address": "21610 Laura Walk, Youngland, TN 02570",
+      "phone": "698.989.5844x328"
+    },
+    "rating": 3
+  },
+  {
+    "id_supplier": 57,
+    "name": "Lopez, Nelson and Lawrence",
+    "contact_info": {
+      "address": "3884 Jeremy Throughway, Port Jacquelineland, GU 54690",
+      "phone": "(813)964-2071x83478"
+    },
+    "rating": 1.8
+  },
+  {
+    "id_supplier": 12,
+    "name": "Franklin Ltd",
+    "contact_info": {
+      "address": "Unit 2903 Box 9373, DPO AE 21708",
+      "phone": "755.421.9815x895"
+    },
+    "rating": 2.8
+  },
+  {
+    "id_supplier": 99,
+    "name": "Lewis, Garner and Brown",
+    "contact_info": {
+      "address": "42767 Davis Forge Suite 994, South Curtis, SD 72765",
+      "phone": "001-983-772-4558x34413"
+    },
+    "rating": 4.8
+  },
+  {
+    "id_supplier": 62,
+    "name": "Jones LLC",
+    "contact_info": {
+      "address": "2707 Sandra Island, Stevenfort, DC 11974",
+      "phone": "846-751-2029"
+    },
+    "rating": 4.3
+  },
+  {
+    "id_supplier": 67,
+    "name": "Cruz-Lopez",
+    "contact_info": {
+      "address": "065 Matthew Coves Suite 030, Mcdonaldstad, PR 75473",
+      "phone": "001-595-539-2457x2692"
+    },
+    "rating": 1.5
+  },
+  {
+    "id_supplier": 58,
+    "name": "King, Thompson and Johnson",
+    "contact_info": {
+      "address": "841 Lyons Tunnel Apt. 685, Ellisonchester, OK 34133",
+      "phone": "001-496-555-7718x9878"
+    },
+    "rating": 1.2
+  },
+  {
+    "id_supplier": 5,
+    "name": "May, Keller and Cruz",
+    "contact_info": {
+      "address": "262 Joshua Cliffs Suite 647, North James, NH 78025",
+      "phone": "5329806761"
+    },
+    "rating": 2.4
+  },
+  {
+    "id_supplier": 14,
+    "name": "Mcbride Ltd",
+    "contact_info": {
+      "address": "33730 Christopher Pike Suite 050, New Troy, MS 78430",
+      "phone": "+1-908-554-5385x991"
+    },
+    "rating": 1.9
+  },
+  {
+    "id_supplier": 36,
+    "name": "Patterson PLC",
+    "contact_info": {
+      "address": "4913 Dalton Creek Suite 990, Juanborough, AR 86781",
+      "phone": "001-942-735-9290x20531"
+    },
+    "rating": 1.4
+  },
+  {
+    "id_supplier": 50,
+    "name": "Diaz and Sons",
+    "contact_info": {
+      "address": "PSC 8530, Box 6911, APO AE 55445",
+      "phone": "(368)872-3589"
+    },
+    "rating": 3.1
+  },
+  {
+    "id_supplier": 65,
+    "name": "Moore LLC",
+    "contact_info": {
+      "address": "90201 Connor Lodge Apt. 011, Jimenezmouth, CO 93266",
+      "phone": "467.376.1527x78928"
+    },
+    "rating": 3.7
+  },
+  {
+    "id_supplier": 24,
+    "name": "Flores Inc",
+    "contact_info": {
+      "address": "3965 Samantha Lake Apt. 961, Johnside, AR 17259",
+      "phone": "(510)292-5802x07357"
+    },
+    "rating": 2.2
+  },
+  {
+    "id_supplier": 66,
+    "name": "Madden PLC",
+    "contact_info": {
+      "address": "5953 Benitez Springs, East Stephen, LA 31831",
+      "phone": "729-588-0985"
+    },
+    "rating": 1.8
+  },
+  {
+    "id_supplier": 34,
+    "name": "Donaldson-Roberts",
+    "contact_info": {
+      "address": "PSC 7373, Box 4606, APO AA 53146",
+      "phone": "+1-821-695-4216"
+    },
+    "rating": 3.9
+  },
+  {
+    "id_supplier": 49,
+    "name": "Porter Group",
+    "contact_info": {
+      "address": "15085 Amber Manors Apt. 005, Schmidtshire, NY 48094",
+      "phone": "951-797-8256x6946"
+    },
+    "rating": 3
+  },
+  {
+    "id_supplier": 29,
+    "name": "Bruce and Sons",
+    "contact_info": {
+      "address": "PSC 0526, Box 5093, APO AE 15878",
+      "phone": "(597)448-9886x6956"
+    },
+    "rating": 2.3
+  },
+  {
+    "id_supplier": 84,
+    "name": "Mcdonald LLC",
+    "contact_info": {
+      "address": "48132 Smith Grove Suite 435, South Amyshire, GU 62385",
+      "phone": "334-319-2150"
+    },
+    "rating": 1.4
+  },
+  {
+    "id_supplier": 37,
+    "name": "Lane, Lee and Stone",
+    "contact_info": {
+      "address": "602 Mark Islands Suite 721, Colemanside, ME 99495",
+      "phone": "(381)320-1960x8854"
+    },
+    "rating": 1.9
+  },
+  {
+    "id_supplier": 63,
+    "name": "Gonzalez Ltd",
+    "contact_info": {
+      "address": "379 Matthew Brook Suite 928, East Katherinemouth, ME 57648",
+      "phone": "001-387-974-3692x8493"
+    },
+    "rating": 2.9
+  },
+  {
+    "id_supplier": 17,
+    "name": "Thomas-Hines",
+    "contact_info": {
+      "address": "511 Hart Street, Duranfurt, PR 91378",
+      "phone": "+1-732-848-2779"
+    },
+    "rating": 2.5
+  },
+  {
+    "id_supplier": 54,
+    "name": "Barnes Ltd",
+    "contact_info": {
+      "address": "4104 Timothy Drive Apt. 927, Matthewfurt, KS 84053",
+      "phone": "+1-563-257-0440x75268"
+    },
+    "rating": 4.5
+  },
+  {
+    "id_supplier": 88,
+    "name": "Berry-Carroll",
+    "contact_info": {
+      "address": "759 Brown Field Apt. 304, Richardsonview, PA 97254",
+      "phone": "(332)832-8175x7168"
+    },
+    "rating": 3.2
+  },
+  {
+    "id_supplier": 86,
+    "name": "Clayton Inc",
+    "contact_info": {
+      "address": "2248 Evans Knolls Apt. 692, Hansonfort, AZ 72198",
+      "phone": "001-434-842-5043x853"
+    },
+    "rating": 2.5
+  },
+  {
+    "id_supplier": 80,
+    "name": "Williams-Ryan",
+    "contact_info": {
+      "address": "94716 Joseph Island Apt. 995, Marshallmouth, CT 73449",
+      "phone": "+1-284-829-5659x20040"
+    },
+    "rating": 3.2
+  },
+  {
+    "id_supplier": 39,
+    "name": "Oconnor, Allen and Rivers",
+    "contact_info": {
+      "address": "USNS Washington, FPO AP 35590",
+      "phone": "(601)949-3850"
+    },
+    "rating": 1.3
+  },
+  {
+    "id_supplier": 77,
+    "name": "Gardner, Cantrell and Parker",
+    "contact_info": {
+      "address": "7414 Petty Loop Apt. 085, Pamelaberg, CO 47927",
+      "phone": "001-896-380-5917x6880"
+    },
+    "rating": 2.7
+  },
+  {
+    "id_supplier": 19,
+    "name": "Lee, Wiggins and House",
+    "contact_info": {
+      "address": "USNS Cochran, FPO AA 24207",
+      "phone": "857-365-2864"
+    },
+    "rating": 1.6
+  },
+  {
+    "id_supplier": 72,
+    "name": "Wyatt LLC",
+    "contact_info": {
+      "address": "0021 Michael Point, South Jaredland, TX 09771",
+      "phone": "(342)923-6845x838"
+    },
+    "rating": 1
+  },
+  {
+    "id_supplier": 41,
+    "name": "Hunter-Johnston",
+    "contact_info": {
+      "address": "Unit 6604 Box 5340, DPO AE 95447",
+      "phone": "749-652-3498"
+    },
+    "rating": 4.4
+  },
+  {
+    "id_supplier": 52,
+    "name": "Brooks Inc",
+    "contact_info": {
+      "address": "299 John Motorway Suite 769, Saramouth, MH 91161",
+      "phone": "+1-685-729-9533x8590"
+    },
+    "rating": 1.5
+  },
+  {
+    "id_supplier": 87,
+    "name": "Scott, Liu and Gonzales",
+    "contact_info": {
+      "address": "428 Ronnie Plains, Johnsonstad, NV 45061",
+      "phone": "982-595-1899x5644"
+    },
+    "rating": 4.1
+  },
+  {
+    "id_supplier": 21,
+    "name": "Wheeler, Patrick and Carter",
+    "contact_info": {
+      "address": "3507 Kenneth Courts, Lake Kiara, MI 18473",
+      "phone": "001-290-328-3321x475"
+    },
+    "rating": 1.5
+  },
+  {
+    "id_supplier": 53,
+    "name": "Yates, Cobb and Johnson",
+    "contact_info": {
+      "address": "50875 Stephens Passage Apt. 304, Suarezmouth, NM 15556",
+      "phone": "001-415-781-5220x103"
+    },
+    "rating": 2.6
+  },
+  {
+    "id_supplier": 40,
+    "name": "Wilson, Diaz and Perez",
+    "contact_info": {
+      "address": "USNS Jones, FPO AP 69844",
+      "phone": "(311)382-1534x944"
+    },
+    "rating": 1.8
+  },
+  {
+    "id_supplier": 30,
+    "name": "Miller-Gibson",
+    "contact_info": {
+      "address": "1816 Clark Turnpike Apt. 406, West Craigland, WY 98498",
+      "phone": "8948700435"
+    },
+    "rating": 3.4
+  },
+  {
+    "id_supplier": 94,
+    "name": "Tate, Bryant and Marshall",
+    "contact_info": {
+      "address": "Unit 8078 Box 5361, DPO AE 63207",
+      "phone": "4382474550"
+    },
+    "rating": 3.8
+  },
+  {
+    "id_supplier": 28,
+    "name": "Watson, Oliver and Bailey",
+    "contact_info": {
+      "address": "Unit 0771 Box 8125, DPO AE 60505",
+      "phone": "+1-638-454-6048x638"
+    },
+    "rating": 3.6
+  },
+  {
+    "id_supplier": 90,
+    "name": "Dunn-Atkinson",
+    "contact_info": {
+      "address": "19047 Cain Forges, North Darrenland, NH 74402",
+      "phone": "928.794.9634x025"
+    },
+    "rating": 4.1
+  },
+  {
+    "id_supplier": 16,
+    "name": "Ford-Jackson",
+    "contact_info": {
+      "address": "65044 Eric Freeway Apt. 757, Melissaland, AZ 43279",
+      "phone": "670.338.4260x441"
+    },
+    "rating": 3.2
+  },
+  {
+    "id_supplier": 101,
+    "name": "Nowy dostawca",
+    "contact_info": {
+      "address": "ul. Nowa 1",
+      "phone": "123-456-789"
+    },
+    "rating": 5
+  }
+]
