@@ -12,7 +12,7 @@ import productList from "./routes/products/productList.js";
 import filterProducts from "./routes/products/filterProducts.js";
 
 import listSuppliers from "./routes/suppliers/listSuppliers.js";
-import getSupplier from "./routes/suppliers/getsuppier.js";
+import getSupplier from "./routes/suppliers/getSupplier.js";
 import createSupplier from "./routes/suppliers/createSupplier.js";
 import deleteSupplier from "./routes/suppliers/deleteSupplier.js";
 import updateSupplier from "./routes/suppliers/updateSupplier.js"
@@ -41,28 +41,26 @@ app.use((req, res, next) => {
     next();
 });
 
-
-app.use("/products/:id", getProduct); // GET /products/:id
+app.use("/products", filterProducts); 
+app.use("/products", getProduct); // GET /products/:id
 app.use("/products", createProduct);  // POST /products
-app.use("/products/:id", deleteProduct); // DELETE /products/:id
-app.use("/products/:id", updateProduct); // PATCH /products/:id
+app.use("/products", deleteProduct); // DELETE /products/:id
+app.use("/products", updateProduct); // PATCH /products/:id
 app.use("/products", productList); // GET /products
-app.use("/products/filter", filterProducts); 
 
-app.use("/suppliers/:id", getSupplier);
-app.use("/suppliers", createSupplier);
-app.use("/suppliers/:id", deleteSupplier);
-app.use("/suppliers/:id", updateSupplier);
-app.use("/suppliers", listSuppliers);
-app.use("/suppliers/filter", updateSupplier);
-app.use("/suppliers/filter",filterSuppliers);
 
-app.use("/categories", listCategories);
+app.use("/suppliers/filter", filterSuppliers); // GET /suppliers/filter
+app.use("/suppliers", getSupplier); // GET /suppliers/:id
+app.use("/suppliers", deleteSupplier); // DELETE /suppliers/:id
+app.use("/suppliers", updateSupplier); // PATCH /suppliers/:id
+app.use("/suppliers", createSupplier); // POST /suppliers
+app.use("/suppliers", listSuppliers); // GET /suppliers
+
 app.use("/categories", getCategory);
 app.use("/categories", createCategory);
 app.use("/categories", updateCategory);
 app.use("/categories", deleteCategory);
-
+app.use("/categories", listCategories);
 
 
 // Uruchomienie serwera

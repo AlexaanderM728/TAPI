@@ -1100,51 +1100,7 @@
     }
   },
   {
-    "id": 102,
-    "name": "Nowy jogurt",
-    "category_id": 101,
-    "id_supplier": 70,
-    "nutritional_values": {
-      "carbohydrates": 5,
-      "proteins": 3,
-      "fats": 2
-    }
-  },
-  {
-    "id": 103,
-    "name": "Nowy jogurt",
-    "category_id": 101,
-    "id_supplier": 70,
-    "nutritional_values": {
-      "carbohydrates": 5,
-      "proteins": 3,
-      "fats": 2
-    }
-  },
-  {
-    "id": 105,
-    "name": "Nowy jogurt",
-    "category_id": 101,
-    "id_supplier": 70,
-    "nutritional_values": {
-      "carbohydrates": 5,
-      "proteins": 3,
-      "fats": 2
-    }
-  },
-  {
-    "id": 106,
-    "name": "Nowy jogurt",
-    "category_id": 101,
-    "id_supplier": 70,
-    "nutritional_values": {
-      "carbohydrates": 5,
-      "proteins": 3,
-      "fats": 2
-    }
-  },
-  {
-    "id": 107,
+    "id": 101,
     "name": "Nowy jogurt",
     "category_id": 101,
     "id_supplier": 70,
