@@ -1,0 +1,586 @@
+[
+  {
+    "id": 6,
+    "name": "Attention naturalny",
+    "category_id": 104,
+    "id_supplier": 43,
+    "nutritional_values": {
+      "carbohydrates": 4.2,
+      "proteins": 0.3,
+      "fats": 0.3
+    },
+    "supplier": {
+      "id_supplier": 43,
+      "name": "White-Carter",
+      "contact_info": {
+        "address": "84860 Hawkins Ranch, Martinezshire, MI 27962",
+        "phone": "6932635904"
+      },
+      "rating": 1.2
+    },
+    "category": {
+      "id_category": 104,
+      "name": "Mięso",
+      "main_category": "Produkty mięsne",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/6"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/6"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/6"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=104&minCarbohydrates=4.2&maxCarbohydrates=4.2&minProteins=0.3&maxProteins=0.3&minFats=0.3&maxFats=0.3"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/43"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sometimes naturalny",
+    "category_id": 101,
+    "id_supplier": 20,
+    "nutritional_values": {
+      "carbohydrates": 4.7,
+      "proteins": 4.4,
+      "fats": 0.4
+    },
+    "supplier": {
+      "id_supplier": 20,
+      "name": "Hernandez, Johnston and Johnson",
+      "contact_info": {
+        "address": "0075 Parker Throughway Suite 079, West Rachel, ME 11344",
+        "phone": "(326)276-2417"
+      },
+      "rating": 3.9
+    },
+    "category": {
+      "id_category": 101,
+      "name": "Nabiał",
+      "main_category": "Produkty mleczne",
+      "description": "Produkty mleczne i nabiałowe."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/8"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/8"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/8"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=101&minCarbohydrates=4.7&maxCarbohydrates=4.7&minProteins=4.4&maxProteins=4.4&minFats=0.4&maxFats=0.4"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/20"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Teach naturalny",
+    "category_id": 103,
+    "id_supplier": 4,
+    "nutritional_values": {
+      "carbohydrates": 3.8,
+      "proteins": 5.3,
+      "fats": 1.1
+    },
+    "supplier": {
+      "id_supplier": 4,
+      "name": "Wilson, Ray and Murphy",
+      "contact_info": {
+        "address": "77144 Bailey Roads Suite 390, Kellyhaven, ID 05632",
+        "phone": "275.610.9931x5260"
+      },
+      "rating": 3.7
+    },
+    "category": {
+      "id_category": 103,
+      "name": "Warzywa",
+      "main_category": "Produkty spożywcze",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/20"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/20"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/20"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=103&minCarbohydrates=3.8&maxCarbohydrates=3.8&minProteins=5.3&maxProteins=5.3&minFats=1.1&maxFats=1.1"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/4"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Film naturalny",
+    "category_id": 104,
+    "id_supplier": 6,
+    "nutritional_values": {
+      "carbohydrates": 6.5,
+      "proteins": 2.4,
+      "fats": 0.7
+    },
+    "supplier": {
+      "id_supplier": 6,
+      "name": "Rogers-Sanchez",
+      "contact_info": {
+        "address": "7341 Cynthia Common, Bernardfurt, AL 69217",
+        "phone": "(392)202-5892x5813"
+      },
+      "rating": 3.7
+    },
+    "category": {
+      "id_category": 104,
+      "name": "Mięso",
+      "main_category": "Produkty mięsne",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/23"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/23"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/23"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=104&minCarbohydrates=6.5&maxCarbohydrates=6.5&minProteins=2.4&maxProteins=2.4&minFats=0.7&maxFats=0.7"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/6"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Beautiful naturalny",
+    "category_id": 103,
+    "id_supplier": 68,
+    "nutritional_values": {
+      "carbohydrates": 5.2,
+      "proteins": 9.6,
+      "fats": 0.3
+    },
+    "supplier": {
+      "id_supplier": 68,
+      "name": "Wright, Contreras and Ford",
+      "contact_info": {
+        "address": "647 Jonathan Plains Apt. 964, Bowersshire, MI 99561",
+        "phone": "9007930807"
+      },
+      "rating": 2.1
+    },
+    "category": {
+      "id_category": 103,
+      "name": "Warzywa",
+      "main_category": "Produkty spożywcze",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/42"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/42"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/42"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=103&minCarbohydrates=5.2&maxCarbohydrates=5.2&minProteins=9.6&maxProteins=9.6&minFats=0.3&maxFats=0.3"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/68"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Support naturalny",
+    "category_id": 103,
+    "id_supplier": 99,
+    "nutritional_values": {
+      "carbohydrates": 5.6,
+      "proteins": 9.6,
+      "fats": 2
+    },
+    "supplier": {
+      "id_supplier": 99,
+      "name": "Lewis, Garner and Brown",
+      "contact_info": {
+        "address": "42767 Davis Forge Suite 994, South Curtis, SD 72765",
+        "phone": "001-983-772-4558x34413"
+      },
+      "rating": 4.8
+    },
+    "category": {
+      "id_category": 103,
+      "name": "Warzywa",
+      "main_category": "Produkty spożywcze",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/64"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/64"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/64"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=103&minCarbohydrates=5.6&maxCarbohydrates=5.6&minProteins=9.6&maxProteins=9.6&minFats=2&maxFats=2"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/99"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Purpose naturalny",
+    "category_id": 105,
+    "id_supplier": 21,
+    "nutritional_values": {
+      "carbohydrates": 6.7,
+      "proteins": 2.5,
+      "fats": 0.1
+    },
+    "supplier": {
+      "id_supplier": 21,
+      "name": "Wheeler, Patrick and Carter",
+      "contact_info": {
+        "address": "3507 Kenneth Courts, Lake Kiara, MI 18473",
+        "phone": "001-290-328-3321x475"
+      },
+      "rating": 1.5
+    },
+    "category": {
+      "id_category": 105,
+      "name": "Napoje",
+      "main_category": "Napój",
+      "description": "Produkty bogate w składniki odżywcze."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/93"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/93"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/93"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=105&minCarbohydrates=6.7&maxCarbohydrates=6.7&minProteins=2.5&maxProteins=2.5&minFats=0.1&maxFats=0.1"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/21"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Nowy jogurt",
+    "category_id": 101,
+    "id_supplier": 70,
+    "nutritional_values": {
+      "carbohydrates": 5,
+      "proteins": 3,
+      "fats": 2
+    },
+    "supplier": {
+      "id_supplier": 70,
+      "name": "Campbell, Ashley and Nelson",
+      "contact_info": {
+        "address": "9619 Reed Cliff Apt. 851, Christianchester, AL 87059",
+        "phone": "(680)330-7679"
+      },
+      "rating": 1.6
+    },
+    "category": {
+      "id_category": 101,
+      "name": "Nabiał",
+      "main_category": "Produkty mleczne",
+      "description": "Produkty mleczne i nabiałowe."
+    },
+    "links": [
+      {
+        "rel": "products_list",
+        "method": "GET",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_create",
+        "method": "POST",
+        "href": "http://localhost:8989/products"
+      },
+      {
+        "rel": "products_details",
+        "method": "GET",
+        "href": "http://localhost:8989/products/101"
+      },
+      {
+        "rel": "products_update",
+        "method": "PATCH",
+        "href": "http://localhost:8989/products/101"
+      },
+      {
+        "rel": "products_delete",
+        "method": "DELETE",
+        "href": "http://localhost:8989/products/101"
+      },
+      {
+        "rel": "products_filter",
+        "method": "GET",
+        "href": "http://localhost:8989/products/filter?category_id=101&minCarbohydrates=5&maxCarbohydrates=5&minProteins=3&maxProteins=3&minFats=2&maxFats=2"
+      },
+      {
+        "rel": "categories_list",
+        "method": "GET",
+        "href": "http://localhost:8989/categories"
+      },
+      {
+        "rel": "suppliers_list",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers"
+      },
+      {
+        "rel": "suppliers_details",
+        "method": "GET",
+        "href": "http://localhost:8989/suppliers/70"
+      }
+    ]
+  }
+]

@@ -49,7 +49,7 @@ app.use("/products", updateProduct); // PATCH /products/:id
 app.use("/products", productList); // GET /products
 
 
-app.use("/suppliers/filter", filterSuppliers); // GET /suppliers/filter
+app.use("/suppliers", filterSuppliers); // GET /suppliers/filter
 app.use("/suppliers", getSupplier); // GET /suppliers/:id
 app.use("/suppliers", deleteSupplier); // DELETE /suppliers/:id
 app.use("/suppliers", updateSupplier); // PATCH /suppliers/:id
